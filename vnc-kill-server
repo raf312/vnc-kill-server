@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /bin
+echo "vncserver -kill :1" > vnck
+chmod +x vnck
